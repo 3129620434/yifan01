@@ -3,11 +3,16 @@
 ## 前置条件
 
 
-### 1. 论文出处与数据集来源
+### 1. Original paper/address:
 Yue, S., Wei, M., et al.: Robust pixel-wise
 illuminant estimation algorithm for images
 with a low bit-depth. Optics express 32(15),
 26708–26718 (2024) https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation
-### 2. 下载预训练模型  
-预训练模型下载链接：[Quark Link](https://pan.quark.cn/s/2118ea3c447b)  
-下载后，请将模型文件放入项目根目录下的 `pretrained_models` 文件夹中。
+### 2. Single-Illumination Contrast Papers and Datasets/Addresses：
+N. Banić, K. Koščević, and S. Lončarić, “Unsupervised learning for color constancy,” arXiv, (2017).
+https://arxiv.org/abs/1712.00436
+
+
+### 3. pretrained_models
+Download link for the pre-trained model：[Quark Link](https://pan.quark.cn/s/2118ea3c447b)  
+After downloading, please place the model file in the `pretrained_models` folder under the project root directory.
