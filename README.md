@@ -1,6 +1,6 @@
 # LGHA-Net: Robust Pixel-wise Illumination Estimation for Low Bit-Depth Images via a Hybrid U-Net
 
-## 前置条件
+## Pre-requites
 
 
 ### 1. Original paper/address:
